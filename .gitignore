@@ -16,3 +16,4 @@ dist/
 /vk_platform.h
 rust/
 glad-rs/
+cmake-build-*/
